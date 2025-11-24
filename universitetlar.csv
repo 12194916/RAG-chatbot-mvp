@@ -1,0 +1,11 @@
+id,name,location,ranking,faculties,website,description
+1,INHA University in Tashkent,Uzbekistan,1001,"Computer Science, ICT, Business Administration",https://inha.uz,O‘zbekistondagi IT sohasiga ixtisoslashgan universitet. Koreya INHA universitetining filiali.
+2,National University of Uzbekistan,Uzbekistan,801,"Matematika, Fizika, Kimyo, Biologiya",https://nuu.uz,O‘zbekistonning eng qadimgi klassik universiteti. 1918-yilda tashkil etilgan.
+3,Tashkent University of Information Technologies,Uzbekistan,1201,"Telekommunikatsiya, Dasturlash, Axborot xavfsizligi",https://tuit.uz,O‘zbekistonning IT sohasi bo‘yicha yetakchi universiteti.
+4,Westminster International University in Tashkent,Uzbekistan,1501,"Business, Economics, Finance, Management",https://wiut.uz,Buyuk Britaniya ta’lim tizimi asosida ishlaydigan xalqaro universitet.
+5,Massachusetts Institute of Technology (MIT),USA,1,"Computer Science, Engineering, Physics, AI",https://web.mit.edu,Dunyodagi eng mashhur texnologiya universiteti. Ilmiy tadqiqot va innovatsiyalar markazi.
+6,Harvard University,USA,2,"Law, Medicine, Business, Economics",https://www.harvard.edu,"Eng qadimgi AQSh universiteti bo‘lib, kuchli ta’lim sifati va global ta’sir doirasiga ega."
+7,Stanford University,USA,3,"Computer Science, Engineering, Business, Medicine",https://www.stanford.edu,"Kaliforniyada joylashgan innovatsion universitet, Silicon Valley markazida."
+8,Seoul National University,South Korea,37,"Engineering, Science, Medicine, Arts",https://en.snu.ac.kr,"Koreyaning eng nufuzli universiteti, ilmiy tadqiqotlar bo‘yicha mashhur."
+9,University of Cambridge,UK,4,"Law, Philosophy, Mathematics, Physics",https://www.cam.ac.uk,"Buyuk Britaniyaning eng mashhur universitetlaridan biri, qadimiy ilmiy maktab."
+10,University of Oxford,UK,5,"Law, Politics, Medicine, Philosophy",https://www.ox.ac.uk,"Eng qadimgi ingliz universiteti, global miqyosda mashhur akademik muassasa."
